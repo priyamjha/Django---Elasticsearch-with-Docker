@@ -35,6 +35,7 @@ This will start:
 ## 📂 Important Files
 
 ### `documents.py`
+documents.py is used to define which Django model fields should be indexed in Elasticsearch so they can be searched efficiently
 
 ---
 
